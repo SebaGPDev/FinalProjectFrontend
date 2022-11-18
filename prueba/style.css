@@ -22,8 +22,8 @@
   align-items: center;
   justify-content: center;
   border-radius: 25px;
-  background: #e0e0e0;
-  box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;
+  background: #f0f4fc;
+  box-shadow: 10px 10px 30px #c8d4e4, -10px -10px 30px #ffffff;
 }
 
 .logo2 {
